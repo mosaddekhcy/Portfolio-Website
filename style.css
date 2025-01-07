@@ -131,7 +131,8 @@ p{
     text-align: left;
     grid-column: 2/3;
 }
-/* must use 11111*/
+
+
 .red{
     display: grid;
     grid-template-columns: 0.5fr 1fr 0.5fr;
@@ -154,12 +155,6 @@ p{
     list-style: none;
 }
 
-.work-experience ul{
-    /* display:flex;
-    flex-direction: column;
-    justify-content: space-between; */
-    
-}
 
 .rlp-container{
     display: grid;
@@ -304,11 +299,6 @@ footer p{
         margin: 0px;
     }
     
-    .rlp{
-        /* width: 50%;
-        margin: auto; */
-    }
-
     /* #contact h4{
         font-size: 0.7rem;
     } */
